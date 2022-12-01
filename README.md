@@ -1,15 +1,13 @@
 <meta charset="utf-8">
 
-# My Playlist Exercise
+# Playlist Exercise
+
+
+## Praparing the work environment for the exercise: :wrench:
 
 <br>
 
-
-## Praparing the work environment for the exercise:
-
-<br>
-
-<details><summary><b>If you didn't clone the repo, and create your own React App:</b></summary>
+<details><summary><b>If you didn't clone the repo, and will locally create your own React App:</b></summary>
 
 <br>
 
@@ -175,7 +173,7 @@ State can only move from <strong>Parent</strong> --to--> <strong>Child</strong> 
 
 <br>
 
-have a look at the example below :)
+have a look at the example below :smile:
 
 <br>
 
